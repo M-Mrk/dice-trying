@@ -1,4 +1,5 @@
 # DiceTrying
+![zine page](images/zine.pdf)
 ![right view of product](images/right-view.jpeg)
 ## What is this?
 Its a dice... But you can choose what kind with the big buttons on the side. From D2 all the way to D20.
