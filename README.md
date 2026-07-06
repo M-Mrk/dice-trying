@@ -1,4 +1,5 @@
 # DiceTrying
+![right view of product](images/right-view.jpeg)
 ## What is this?
 Its a dice... But you can choose what kind with the big buttons on the side. From D2 all the way to D20.
 
@@ -10,13 +11,14 @@ This was made during Fallout 2026 in Shenzhen. Our original project kept failing
 
 # Features
 ## Marketing
-- CAD case (Cardboard aided design)
-- Impairment friendly due to big buttons (screen not so much)
-- Environmentally friendly Case made out of 80% recycled material and HMA
-- Open air design with good airflow
+- BYOP system - Flexable power system, compatible with millions of USB devices
 - Nostalgia inducing - sits right at home with arcade style buttons
-- User servicable - easy to open and repair
+- Impairment friendly due to big buttons (screen not so much)
 - Adheres to most EU product guidelines
+- Environmentally friendly Case made out of 80% recycled material and HMA
+- CAD case (Cardboard aided design)
+- Open air design with good airflow
+- User servicable - easy to open and repair
 
 ## Real
 - Available dices: D2, D4, D6, D8, D12, D20
@@ -41,7 +43,7 @@ This was made during Fallout 2026 in Shenzhen. Our original project kept failing
 | Display CS  | D9 |
 | Display RST | D3 |
 
-Connect the left button between D1 and Ground. The right one between D6 and Ground.
+Connect the left button between D6 and Ground. The right one between D1 and Ground.
 
 # Flashing
 Flashing is straight forward with platformio. Open the `firmware` folder and run `pio run -t upload`.

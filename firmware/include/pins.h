@@ -4,8 +4,8 @@
 #define SCL_PIN D5
 #define IMU_INT_PIN D0
 
-#define PREVIOUS_BTN_PIN D1
-#define NEXT_BTN_PIN D6
+#define PREVIOUS_BTN_PIN D6
+#define NEXT_BTN_PIN D1
 
 // #define DISPLAY_IS_I2C
 
