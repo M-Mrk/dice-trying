@@ -35,7 +35,6 @@ This was made during Fallout 2026 in Shenzhen. Our original project kept failing
 | MPU6050 SDA | D4 |
 | MPU6050 SCL | D5 |
 | MPU6050 INT | D0 |
-| Right button | D6 |
 | Display MOSI | D10 |
 | Display CLK | D8 |
 | Display DC  | D2 |
